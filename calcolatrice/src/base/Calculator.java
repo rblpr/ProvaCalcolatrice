@@ -50,7 +50,4 @@ public class Calculator {
 		
 	}
 	
-	public Operation getOperation(String s) {
-		return Operation.valueOf(s);
-	}
 }
